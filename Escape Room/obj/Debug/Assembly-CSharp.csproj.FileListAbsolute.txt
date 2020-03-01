@@ -1,0 +1,2 @@
+C:\Users\Walker Ward\Desktop\All Work 18-19\Code Resources\Workspaces\unity\Escape Room\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Walker Ward\Desktop\All Work 18-19\Code Resources\Workspaces\unity\Escape Room\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
